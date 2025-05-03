@@ -812,6 +812,10 @@ PrefabInstance:
       value: stretch
       objectReference: {fileID: 0}
     - target: {fileID: 5936123482521887458, guid: 9ecf200c9f8933641a6c47fcb02d8b34, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.131
+      objectReference: {fileID: 0}
+    - target: {fileID: 5936123482521887458, guid: 9ecf200c9f8933641a6c47fcb02d8b34, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
