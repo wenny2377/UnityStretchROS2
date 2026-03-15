@@ -42,7 +42,7 @@ The virtual scene was built from scratch in Unity based on the official Stretch 
 │  Physical Stretch Robot      │         │  Unity Virtual Scene         │
 │  Hello Robot Stretch 3       │         │  Stretch 3 Digital Twin      │
 │                              │         │                              │
-│  ROS2 Humble                 │         │  ROS-TCP / rosbridge_suite   │
+│  ROS2 Humble                 │         │  Rosbridge_suite   │
 │  ├─ /joint_states            │────────▶│  ├─ Joint state subscriber   │
 │  ├─ /cmd_vel                 │         │  ├─ Transform sync           │
 │  └─ /tf                      │         │  └─ Real-time visualization  │
